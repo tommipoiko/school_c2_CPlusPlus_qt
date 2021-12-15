@@ -1,0 +1,1 @@
+# qt_cplusplus_school_course2
